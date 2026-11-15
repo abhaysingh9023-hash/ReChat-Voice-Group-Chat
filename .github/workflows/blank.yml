@@ -1,4 +1,7 @@
-# This is a basic workflow to help you get started with Actions
+
+chmod +x gradlew
+./gradlew assembleDebug
+app/build/outputs/apk/debug/app-debug.apk# This is a basic workflow to help you get started with Actions
 
 name: CI
 
